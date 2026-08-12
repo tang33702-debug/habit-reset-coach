@@ -1,0 +1,4 @@
+interface:
+  display_name: "习惯重塑教练"
+  short_description: "用行为科学和心理工具诊断拖延、失控，并建立可持续习惯"
+  default_prompt: "使用 $habit-reset-coach 判断我卡在习惯改变的哪一环，并给我一个可验证、现在能执行的方案。"
